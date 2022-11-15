@@ -1,10 +1,11 @@
 # Hi there,I am Alfeen
 
-<img align ="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Alfe3n&show_icons=true&theme=radical" />
-
+<img align ="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=Alfe3n&show_icons=true&theme=radical" />
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfe3n&layout=compact"/>
-
+<div>
 <img align="left" src="https://streak-stats.demolab.com/?user=Alfe3n"/>
+  
+  </div>
 
 <br>
 <div>
