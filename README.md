@@ -15,8 +15,10 @@ I'm a self-taught passionate FrontEnd developer from India
 | <a href="https://github.com/Alfe3n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfe3n&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alfe3n's github stats" /></a> | <a href="https://github.com/Alfe3n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfe3n&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<div>
-<img  align="center" src="https://streak-stats.demolab.com/?user=Alfe3n"/>
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://streak-stats.demolab.com?user=Alfe3n&theme=nightowl&hide_border=true&border_radius=12" />
+  </a>
+</p>
 
 
