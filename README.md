@@ -37,7 +37,8 @@
 <h3>:man_technologist: My Wakatime</h3>
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alfeen&layout=compact&border_radius=5&theme=default" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alfeen&layout=compact&border_radius=5&theme=default" /> -->
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anirudh_A_V&layout=compact&border_radius=5&theme=default" />
   </a>
 </p>
 </div>
