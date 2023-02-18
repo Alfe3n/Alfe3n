@@ -32,12 +32,6 @@
 </p>
 
 <br>
-<!--START_SECTION:waka-->
-<img
-  src="https://github.com/Alfe3n/Alfe3n/blob/main/images/stat.svg"
-  alt="WakaTime Activity"
-/>
-<!--END_SECTION:waka-->
 
 
 <br>
