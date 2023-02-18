@@ -32,16 +32,10 @@
 </p>
 
 <br>
-<!--
-<div align="center">
-<h3>:man_technologist: My Wakatime</h3>
-<p align="center">
-  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alfeen&layout=compact&border_radius=5&theme=default" />
-      
-</p>
-</div>
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <br>
 
 <h3 align="center">Get in touch with me</h3>
