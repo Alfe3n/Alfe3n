@@ -5,7 +5,6 @@
 <div align="center">
 
 💻 I'm a ReactJS Developer<br>
-🎨 I'm a Python Enthusiast<br>
 💞️ Looking to collaborate on GitHub and Hackathons<br>
 🎓 I'm a Computer Science student (graduating in October 2024)<br>
 <br>
