@@ -1,26 +1,13 @@
 
 <h1 align="center">Hey there, I'm Alfeen Sadiq</h1>
-<br>
 <h2 align="center"> 📖 About me</h2>
+<br>
 <div align="center">
-
-💻 I'm a ReactJS Developer<br>
+💻 Problem Solver<br>
 💞️ Looking to collaborate on GitHub and Hackathons<br>
 🎓 I'm a Computer Science student (graduating in October 2024)<br>
 <br>
 </div>
-
-<h3 align="center">:chart_with_upwards_trend: My Stats</h3>
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfe3n"/>
-  </a>
-</p>
-
-
-<br>
-
-
 <h2 align="center">:sparkles: Technologies I use</h2>
 <br>
 <p align="center">
