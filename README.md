@@ -4,8 +4,6 @@
 <br>
 <div align="center">
 💻 Problem Solver<br>
-💞️ Looking to collaborate on GitHub and Hackathons<br>
-🎓 I'm a Computer Science student (graduating in October 2024)<br>
 <br>
 </div>
 <h2 align="center">:sparkles: Technologies I use</h2>
